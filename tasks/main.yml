@@ -1,0 +1,4 @@
+---
+# tasks file for oracle-java10
+
+- include_tasks: apt.yml
