@@ -14,7 +14,7 @@
 - name: Install software-properties-common apt package
   become: true
   apt:
-    name: [ software-properties-common ]
+    name: software-properties-common
 
 - name: Configure Oracle license options
   become: true
